@@ -13,12 +13,12 @@ export default function SlideCard() {
                 className="slidesr slider-item relative overflow-hidden min-w-full"
             >
                 <div className="px-12 -mt-12">
-                    <h1 className="mt-6 text-5xl font-bold text-white">I Picked A Hammer To Save The World</h1>
+                    <h1 className="mt-6 text-5xl font-bold text-white">Rebirth of the Urban Immortal Cultivator</h1>
 
                     <p className="text-light mt-4 text-left line-clamp-2">
-                        Tiny, who is in danger of dying after crushing the head of the 7th corps captain, Demonic Beast King, with the last blow. In a despaired situation where the destruction of mankind can’t be prevented, the only comrade who was still alive, the “Sword emperor,” uses the power of his family treasure to regress Tiny.
+                       desc 1
                         <br />
-                        Tiny, who returned to being a slum orphan from being one of the continent’s best knights, now possesses strong potential by gaining new powers that he did not have in his previous life. Can he indeed prevent the fall of mankind in this life?
+                        desc 2
                     </p>
                     <div id="buttons" className="flex space-x-4 mt-6">
                         <Link href={`/manga/test`}>

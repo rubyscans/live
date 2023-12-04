@@ -14,9 +14,9 @@ export default function BrowseMangaCard() {
           <span className="text-xs bg-green-400 rounded-full px-2 py-1 mr-2 mb-2">Comedy</span>
         </div>
         <p className={`text-sm mt-3 italic transition duration-200 card-description-opacity opacity-100 line-clamp-6 overflow-auto`}>
-          Tiny, who is in danger of dying after crushing the head of the 7th corps captain, Demonic Beast King, with the last blow. In a despaired situation where the destruction of mankind can’t be prevented, the only comrade who was still alive, the “Sword emperor,” uses the power of his family treasure to regress Tiny.
+         desc 1
           <br />
-          Tiny, who returned to being a slum orphan from being one of the continent’s best knights, now possesses strong potential by gaining new powers that he did not have in his previous life. Can he indeed prevent the fall of mankind in this life?
+        desc 2
         </p>
       </div>
     }>
@@ -24,10 +24,10 @@ export default function BrowseMangaCard() {
       <Link href={`/manga/test`}>
         <div className="cursor-pointer flex flex-col group">
           <div className="flex w-full h-full">
-            <img loading="lazy" src="https://www.mangaread.org/wp-content/uploads/2022/12/Read-Manhwa-6-193x278.jpg" alt="anime_image" width={300} height={300} className="w-[300px] h-[260px] object-cover rounded-lg group-hover:opacity-50 button-animate" />
+            <img loading="lazy" src="https://www.kissmanga.info/storage/manga_covers/rebirth-of-the-urban-immortal-cultivator.webp" alt="anime_image" width={300} height={300} className="w-[300px] h-[260px] object-cover rounded-lg group-hover:opacity-50 button-animate" />
           </div>
           <div className="mt-3">
-            <p className="font-medium text-[16px] text-white capitalize line-clamp-1">I Picked A Hammer To Save The World</p>
+            <p className="font-medium text-[16px] text-white capitalize line-clamp-1">Rebirth of the Urban Immortal Cultivator</p>
             <p className="font-medium text-zinc-300 text-sm">10 Chapter</p>
           </div>
         </div>

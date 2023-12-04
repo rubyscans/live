@@ -13,16 +13,16 @@ export default function Home() {
 
     return (
         <>
-            <NextSeo title={"I Picked A Hammer To Save The World"} />
+            <NextSeo title={"Rebirth of the Urban Immortal Cultivator"} />
 
             <div className="max-w-7xl pt-12 mx-auto">
                 <div className="browse-banner !w-[100rempx] bg-zinc-700/20 rounded-lg">
-                    <img id="image" src="https://otakukart.com/wp-content/uploads/2023/05/I-Picked-A-Hammer-To-Save-The-World-Chapter-28-scaled.jpg" className="button-animate browse-image" />
+                    <img id="image" src="https://www.kissmanga.info/storage/manga_covers/rebirth-of-the-urban-immortal-cultivator.webp" className="button-animate browse-image" />
                     <div id="black" className="bg-gradient-to-tr from-zinc-900/20 to-zinc-900/50 browse-black"></div>
                 </div>
                 <div id="body2" className="block lg:hidden">
                     <div className="flex justify-center">
-                        <img alt="anime" src="https://www.mangaread.org/wp-content/uploads/2022/12/Read-Manhwa-6-193x278.jpg" className="flex-shrink-1 rounded-lg w-[250px] h-[380px] relative object-cover bg-cover -mt-32" />
+                        <img alt="anime" src="https://www.kissmanga.info/storage/manga_covers/rebirth-of-the-urban-immortal-cultivator.webp" className="flex-shrink-1 rounded-lg w-[250px] h-[380px] relative object-cover bg-cover -mt-32" />
                     </div>
                     <h1 className="text-xl font-semibold text-white text-center mt-3">
                         I Picked A Hammer To Save The World
@@ -36,9 +36,9 @@ export default function Home() {
 
                     <div className="mt-4">
                         <p className="mt-2 line-clamp-5 text-center w-[450px]">
-                            Tiny, who is in danger of dying after crushing the head of the 7th corps captain, Demonic Beast King, with the last blow. In a despaired situation where the destruction of mankind can’t be prevented, the only comrade who was still alive, the “Sword emperor,” uses the power of his family treasure to regress Tiny.
+                            desc 1
                             <br />
-                            Tiny, who returned to being a slum orphan from being one of the continent’s best knights, now possesses strong potential by gaining new powers that he did not have in his previous life. Can he indeed prevent the fall of mankind in this life?
+                           desc 2
                         </p>
                     </div>
 
@@ -113,12 +113,12 @@ export default function Home() {
                                         <img
                                             alt="logo"
                                             class="rounded-full"
-                                            src="https://avatars.githubusercontent.com/u/73245847?v=4"
+                                            src="https://i1.sndcdn.com/artworks-2CpsbIwGT2gDXvmq-6h3RkA-t500x500.jpg"
                                         />
                                     </div>
                                     <div class="ml-3 w-full">
                                         <div class="flex items-center">
-                                            <p class="text-lg font-medium mr-2">NullMan</p>
+                                            <p class="text-lg font-medium mr-2">ruubei</p>
                                             <p class="ml-2 text-xs text-white/50">{moment(new Date()).from()}</p>
 
                                             <div class="ml-auto">
@@ -140,7 +140,7 @@ export default function Home() {
                 <div id="body" className="hidden lg:block">
                     <div id="user-info" className="flex -mt-2 space-x-8">
                         <div className="ml-12 -mt-24">
-                            <img alt="anime" src="https://www.mangaread.org/wp-content/uploads/2022/12/Read-Manhwa-6-193x278.jpg" className="flex-shrink-1 rounded-lg w-[250px] min-h-[280px] max-h-[340px] relative object-cover bg-cover" />
+                            <img alt="anime" src="https://www.kissmanga.info/storage/manga_covers/rebirth-of-the-urban-immortal-cultivator.webp" className="flex-shrink-1 rounded-lg w-[250px] min-h-[280px] max-h-[340px] relative object-cover bg-cover" />
                             <div className="mt-2">
                                 <div className="flex space-x-2 w-[250px]">
                                     <Tippy content={"Yakında..."} placement="bottom" arrow={false} theme="dark">
@@ -201,14 +201,14 @@ export default function Home() {
                         </div>
                         <div className="max-w-4xl">
                             <h1 className="text-4xl font-semibold text-white">
-                                I Picked A Hammer To Save The World
+                               Rebirth of the Urban Immortal Cultivator
                             </h1>
                             <div className="mt-4">
                                 <h1 className="text-xl text-zinc-200 font-semibold">Synopsis</h1>
                                 <p className="mt-2 line-clamp-3">
-                                    Tiny, who is in danger of dying after crushing the head of the 7th corps captain, Demonic Beast King, with the last blow. In a despaired situation where the destruction of mankind can’t be prevented, the only comrade who was still alive, the “Sword emperor,” uses the power of his family treasure to regress Tiny.
+                                   desc 1
                                     <br />
-                                    Tiny, who returned to being a slum orphan from being one of the continent’s best knights, now possesses strong potential by gaining new powers that he did not have in his previous life. Can he indeed prevent the fall of mankind in this life?
+                                   desc 2
                                 </p>
                             </div>
 
@@ -281,7 +281,7 @@ export default function Home() {
                                                 <img
                                                     alt="logo"
                                                     class="rounded-full"
-                                                    src="https://avatars.githubusercontent.com/u/73245847?v=4"
+                                                    src="https://i1.sndcdn.com/artworks-2CpsbIwGT2gDXvmq-6h3RkA-t500x500.jpg"
                                                 />
                                             </div>
                                             <div class="ml-3 w-full">

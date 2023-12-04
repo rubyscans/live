@@ -7,7 +7,7 @@ export default function MangaCard() {
         <>
             <div className="lg:w-full w-[420px] h-full flex">
                 <div className="card-image">
-                    <img className="cursor-pointer h-[250px] lg:w-[175px] w-[100px] object-cover rounded-b-lg rounded-l-lg rounded-r-none" src="https://www.mangaread.org/wp-content/uploads/2022/12/Read-Manhwa-6-193x278.jpg" />
+                    <img className="cursor-pointer h-[250px] lg:w-[175px] w-[100px] object-cover rounded-b-lg rounded-l-lg rounded-r-none" src="https://www.kissmanga.info/storage/manga_covers/rebirth-of-the-urban-immortal-cultivator.webp" />
                 </div>
                 <div className="bg-zinc-800/20 border-zinc-700/20 flex h-[250px] lg:w-[500px] w-[250px] rounded-lg">
                     <div className="overflow-hidden">
@@ -17,16 +17,16 @@ export default function MangaCard() {
                                     <div className="card-info transition duration-300 w-full">
                                         <div className="card-info-item overflow-hidden flex flex-col w-full">
                                             <div className="card-info-item-title">
-                                                <h1 className="ml-2 mt-4 font-semibold text-2xl line-clamp-1">I Picked A Hammer To Save The World</h1>
+                                                <h1 className="ml-2 mt-4 font-semibold text-2xl line-clamp-1">Rebirth of the Urban Immortal Cultivator</h1>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="overflow-x-hidden overflow-y-auto h-[190px]">
                                     <p className={`px-4 text-sm mt-3 italic -ml-2 mb-2 transition duration-200 card-description-opacity opacity-100 line-clamp-6 overflow-auto`}>
-                                        Tiny, who is in danger of dying after crushing the head of the 7th corps captain, Demonic Beast King, with the last blow. In a despaired situation where the destruction of mankind can’t be prevented, the only comrade who was still alive, the “Sword emperor,” uses the power of his family treasure to regress Tiny.
+                                       desc 1
                                         <br />
-                                        Tiny, who returned to being a slum orphan from being one of the continent’s best knights, now possesses strong potential by gaining new powers that he did not have in his previous life. Can he indeed prevent the fall of mankind in this life?
+                                      desc 2
                                     </p>
                                 </div>
                             </div>
@@ -40,7 +40,7 @@ export default function MangaCard() {
                                     <span className="rounded-full bg-gray-500 w-2 h-2 inline-block mr-1"></span> 52 Chapter
                                 </p>
                                 <p className="text-sm text-gray-400 inline-block p-2">
-                                    <span className="rounded-full bg-blue-500 w-2 h-2 inline-block mr-1"></span> Manhwa
+                                    <span className="rounded-full bg-blue-500 w-2 h-2 inline-block mr-1"></span> Manhua
                                 </p>
                             </div>
                         </div>

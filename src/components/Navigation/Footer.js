@@ -12,7 +12,7 @@ export default function Footer() {
                                 <i className="fa-solid ml-1 mr-1 text-pink-600 fa-heart"></i>
                             </span>{" "}
                             by{" "}
-                            <Link href="https://nullman.dev" target="_blank" className="text-primary">
+                            <Link href="https://discord.gg/XNJfmG7NhD" target="_blank" className="text-primary">
                                 NullMan
                             </Link>
                         </p>
